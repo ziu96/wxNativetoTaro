@@ -1,0 +1,6 @@
+miniapp/taro
+miniapp/taroNext
+taro-project/dist
+taro-project-3.4
+**/node_modules
+.DS_Store
