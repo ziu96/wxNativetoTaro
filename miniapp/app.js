@@ -1,4 +1,4 @@
-const taroApp = require('./taro/app.js').taroApp
+// const taroApp = require('./taro/app.js').taroApp
 
 // app.js
 App({
@@ -37,11 +37,11 @@ App({
   },
 
   onShow () {
-    taroApp.onShow()
+    // taroApp.onShow()
   },
 
   onHide () {
-    taroApp.onHide()
+    // taroApp.onHide()
   },
 
   globalData: {
