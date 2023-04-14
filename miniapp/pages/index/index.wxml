@@ -10,7 +10,7 @@
   <view class="usermotto">
     <text class="user-motto">{{motto}}</text>
   </view>
-  <button type="primary" style="margin:20px" bindtap="goToIndex">跳转到 index </button>
-  <!-- <button type="primary" style="margin:20px" bindtap="goToFoo">跳转到 Index </button> -->
+  <button type="primary" style="margin:20px" bindtap="goToIndex">跳转到 index3.4 </button>
+  <button type="primary" style="margin:20px" bindtap="goToFoo">跳转到 Index </button>
   <button type="primary" style="margin:20px" bindtap="goToBar">跳转到 bar </button>
 </view>

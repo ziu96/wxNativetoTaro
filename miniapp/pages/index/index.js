@@ -51,7 +51,7 @@ Page({
   },
   goToIndex () {
     wx.navigateTo({
-      url: '/taroNext/pages/index/index'
+      url: '/taro/pages/index/index'
     })
   },
   // goToFoo () {

@@ -14,7 +14,7 @@ export default (ctx, options) => {
     const rootPath = path.resolve(__dirname, '../..')
     const miniappPath = path.join(rootPath, 'miniapp')
     const outputPath = path.resolve(__dirname, '../dist')
-    const destPath = path.join(miniappPath, 'taroNext')
+    const destPath = path.join(miniappPath, 'taro')
 
     if (fs.existsSync(destPath)) {
       fs.removeSync(destPath)
